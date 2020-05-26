@@ -1,6 +1,6 @@
 **UDACITY PROJECT WORKSPACE RUN COMMANDS**
 
-
+usage: main.py [-h] -m MODEL -i INPUT [-l CPU_EXTENSION] [-d DEVICE] [-pt PROB_THRESHOLD] [-pc PERF_COUNTS] [-mc MAX_PERSON_COUNT]
 
 **Intel Pretrained Model**
 
